@@ -464,7 +464,7 @@ p {
 }
 
 a.active {
-  color: #517df0;
+  color:  #ffa366;
 }
 
 a.active:after {
@@ -480,7 +480,7 @@ a.active:after {
 
 .subscribe-form {
   margin-top: 100px;
-  background-color: #517df0;
+  background-color:  #ffa366;
   text-align: center;
   padding: 80px 0px;
 }
@@ -519,7 +519,7 @@ a.active:after {
   font-size: 13px;
   text-transform: uppercase;
   font-weight: 700;
-  color: #517df0;
+  color:  #ffa366;
   padding: 12px 20px;
   background-color: #fff;
   border-radius: 24px;
@@ -552,7 +552,7 @@ a.active:after {
 .contact-intro h2 {
   margin-top: 0px;
   font-size: 24px;
-  color: #517df0;
+  color:  #ffa366;
   font-weight: 700;
   line-height: 30px;
 }
@@ -612,7 +612,7 @@ a.active:after {
 }
 
 .contact-form .text-content {
-  background-color: #517df0;
+  background-color: #ffa366;
   display: block;
   text-align: center;
 }
@@ -694,7 +694,7 @@ a.active:after {
   font-weight: 700;
   color: #fff;
   padding: 12px 20px;
-  background-color: #517df0;
+  background-color: #ffa366;
   border-radius: 24px;
   letter-spacing: 0.5px;
   outline: none!important;
@@ -709,8 +709,8 @@ a.active:after {
 
 .contact-form button:hover {
   background-color: transparent;
-  border: 1px solid #517df0;
-  color: #517df0;
+  border: 1px solid #ffa366;
+  color: #ffa366;
 }
 
 
@@ -926,7 +926,7 @@ a.active:after {
 }
 
 .video .text-content {
-  background-color: #517df0;
+  background-color: #ffa366;
   display: block;
 }
 
@@ -945,7 +945,7 @@ a.active:after {
 }
 
 .video .text-content {
-  background-color: #517df0;
+  background-color: #ffa366;
   height: 500px;
 }
 
@@ -1006,7 +1006,7 @@ a.active:after {
   display: inline-block;
   text-align: center;
   line-height: 70px;
-  color: #517df0;
+  color: #ffa366;
   background-color: #fff;
   font-size: 18px;
   border-radius: 50%;
@@ -1046,7 +1046,7 @@ footer .footer-item ul li a {
 }
 
 footer .footer-item ul li a:hover {
-  color: #517df0;
+  color: #ffa366;
 }
 
 footer .footer-item ul.social-icons {
@@ -1107,11 +1107,11 @@ footer .footer-item ul.social-icons li a:hover {
 
   .banner .center-image {
     height: 50vh;
-    background: #517df0; /* Old browsers */
-    background: -moz-linear-gradient(top, #517df0 50%, #eeeeee 50%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(top, #517df0 50%,#eeeeee 50%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to bottom, #517df0 50%,#eeeeee 50%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#517df0', endColorstr='#eeeeee',GradientType=1 ); /* IE6-9 */
+    background: #ffa366; /* Old browsers */
+    background: -moz-linear-gradient(top, #ffa366 50%, #eeeeee 50%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #ffa366 50%,#eeeeee 50%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #ffa366 50%,#eeeeee 50%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffa366', endColorstr='#eeeeee',GradientType=1 ); /* IE6-9 */
   }
 
   .banner .right-content {
